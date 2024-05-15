@@ -14,3 +14,8 @@ test("should return error if arguments are not passed", () => {
     const result = sum();
     expect(result).toBe("hubo error con los argumentos");
 });
+test('agregando números de punto flotante', () => {
+    const value = 0.1 + 0.2;
+    //expect(value).toBe(0.3); Esto no funcionará debido al error de redondeo
+    expect(value).toBeCloseTo(0.3); // Esto funciona.
+  });

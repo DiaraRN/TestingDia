@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1715139662971" clover="3.2.0">
-  <project timestamp="1715139662971" name="All files">
-    <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="10" coveredelements="10" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
-    <file name="sub.js" path="C:\Users\Diara\Desktop\Escritorio\testing\src\02-sub\sub.js">
-      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="2" count="2" type="cond" truecount="4" falsecount="0"/>
+<coverage generated="1715738577341" clover="3.2.0">
+  <project timestamp="1715738577341" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4" elements="24" coveredelements="24" complexity="0" loc="16" ncloc="16" packages="1" files="1" classes="1"/>
+    <file name="sum.js" path="C:\Users\Diara\Desktop\Escritorio\testing\src\01-sum\sum.js">
+      <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="2" count="3" type="cond" truecount="4" falsecount="0"/>
       <line num="3" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
       <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
